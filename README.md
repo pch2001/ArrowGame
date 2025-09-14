@@ -6,7 +6,8 @@
 ---
 ## 플레이 영상
 
-[![Gameplay Video](https://www.youtube.com/watch?v=2PF2f4u-Pik)
+[![Gameplay Video](https://img.youtube.com/vi/2PF2f4u-Pik/0.jpg)](https://www.youtube.com/watch?v=2PF2f4u-Pik)
+
 
 ---
 
